@@ -18,6 +18,6 @@ An email address is sent to the ValidateEmail function via an HTTP post request.
 
 You can run the project by typing ```func host start``` in the terminal. This will make it ready for testing.
 
-Note: sample http mail requests are available in ```test.http```, if you are using vscode you can test directly with the ```httpyac``` extension. sample screenshot below;
+Note: sample http mail requests are available in ```test.http```, if you are using vscode you can test directly with the ```httpyac extension```. sample screenshot below;
 
 ![image](https://user-images.githubusercontent.com/72391210/226203790-0ddf8608-9959-4bf6-ad2e-5ebdd47e18f3.png)
