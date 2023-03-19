@@ -2,13 +2,13 @@
 
 ###
 
-POST http://0.0.0.0:{{Port}}/api/CheckEmailValidity
+POST http://localhost:{{Port}}/api/CheckEmailValidity
 accept: application/json
 Content-Type: application/json
 {
     "email": "johndoe@example"
 }
 
-POST http://0.0.0.0:{{Port}}/api/CheckEmailValidity?email=johndoe@example.com
+POST http://localhost:{{Port}}/api/CheckEmailValidity?email=johndoe@example.com
 accept: application/json
 Content-Type: application/json
